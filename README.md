@@ -1,4 +1,4 @@
-﻿# MarioBros 新人指南
+﻿# Strangers 新人指南
 
 
 
